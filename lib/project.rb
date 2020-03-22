@@ -10,3 +10,4 @@ def add_backer(backer)
   backer.backed_projects << self 
 
 end
+end 
